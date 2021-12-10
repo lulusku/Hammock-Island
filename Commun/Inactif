@@ -1,0 +1,128 @@
+        <!--
+    <ul>
+        <a class="général" href="Page/Point de vue.html">Point de vue</a>
+        <a class="game" href="Page/Hamac.html">Hamac</a>
+        <a class="création" href="Page/Marmite.html">Marmite</a>
+        <a class="futur" href="Page/Poubelle.html">Poubelle</a>
+        <a class="futur" href="Page/Shot.html">Shot</a>
+        <a class="partage" href="Page/TV.html">TV</a>
+        <a class="partage" href="Page/Journaux.html">Journaux</a>
+        <a class="création" href="Page/Photos.html">Photos</a>
+        <a class="création" href="Page/Livret.html">Livret</a>
+        <a class="fermer" href="Page/Exit.html">Exit</a>
+    </ul>
+        <br><br>
+        -->
+
+            <!--
+        <div>
+
+        <p>Un hamac est une toile ou un filet suspendu entre deux points d'ancrage, destiné à dormir ou à se reposer. Un hamac peut être soit individuel, soit familial. Il peut être doublé, rembourré au niveau du couchage et avoir des poches intérieures ou extérieures, ainsi que des fioritures diverses pour le décorer.
+             <br><br>
+             <strong>Alors n'attendez plus achetez en un!</strong> 
+             <br><br>
+        </div>
+    <footer>
+             <BUTton>Troll</BUTton>
+      
+    
+        <ul>
+            <li><a class="social" href="#">Twitter</a></li>
+            <li><a class="social" href="https://www.instagram.com/lulu.sku/?hl=fr">Instagram</a></li>
+            <li><a class="social" href="#">LinkedIn</a></li>
+        </ul>
+        <br>
+    </footer>
+-->
+
+
+<!--<header></header>
+        
+    <section></section>
+
+                section img {border : none ;
+                box-shadow: 0 0 0px 0px gray;
+                display: inline-block ;
+                }
+
+            .micro{width: 1000px; height: auto;}
+            .paper{height: 100px; width: auto;}
+
+                            display: flex;
+                background-color: turquoise;
+
+                            header{
+                display: inline;
+                justify-content: space-between;
+                align-items: center;}
+
+                            header,footer{background-color:turquoise;
+            padding: 20px 20px;
+            text-align: left;
+            display: inline-block;
+            }
+
+                        section{background-color: aquamarine;
+            margin: 450px 0px 0px 50px;
+            padding : 0px ;
+            height: min-content;
+            border :solid 50px aquamarine;
+            weight: fit-content;
+            display: flex;}
+
+                        div{background-color: aquamarine;
+            margin: 150px 0px 0px 50px;
+            padding : 0px ;
+            height: fit-content;
+            weight: fit-content;
+            border : solid 50px aquamarine;
+            display: flex;}
+
+
+             ul a{
+                background-color: rgb(85, 170, 219);
+                color: white;
+                padding : 10px 20px;
+                border-radius: 20px;
+                text-decoration: none;
+                border: solid 3px;
+                display: inline;
+                font-weight: 300;
+                margin: -10PX 0;
+                font-size: 0.8rem;}
+            ul a:hover{
+                background-color: black;
+            }
+
+            
+            .général{background-color: midnightblue;}    
+            .fermer{background-color: black;}
+            .game{background-color: burlywood;}
+            .création{background-color: rgb(255, 184, 221);}
+            .futur{background-color : rgb(200, 200, 200);}
+            p{
+                color: darkslategrey;
+                line-height: 1,5em;
+                margin: 0px AUTO 0;
+                max-width: 600PX;
+                min-width: 400PX; }
+            ul{list-style: none;
+                padding: 0;}
+            li{display: inline;
+            margin : 0 50px}
+            a.social{
+                color: #666;
+                font-weight: 600;
+                text-decoration: none;
+                margin: 0 0;
+                padding: 0;0;}
+            -->
+
+            <!--
+        <a href="Page/Point de vue.html"><img style="display:block; position:absolute; left:1040px; top:510px; width: 1441px;px; height:auto; z-index:1" src="IMG/Philippines_Tropics_508771 (1).png" alt="Ciel"></a>
+        
+
+
+
+
+            -->
